@@ -1,4 +1,4 @@
-package ru.netology.javamvn.movieManager.posters
+package ru.netology.javamvn.movieManager.posters;
 
 public class MovieManager {
     private String[] movies = new String[0];

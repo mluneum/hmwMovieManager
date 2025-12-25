@@ -1,4 +1,4 @@
-package ru.netology.javamvn.movieManager.posters
+package ru.netology.javamvn.movieManager.posters;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
